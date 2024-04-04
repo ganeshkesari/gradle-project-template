@@ -19,7 +19,6 @@ allprojects {
 
   sourceCompatibility = 1.13
   targetCompatibility = 1.13
-  beamVersion = '2.2.1'
 
   repositories {
     google()
