@@ -96,4 +96,4 @@ sonarqube {
   }
 }
 
-beamVersion = '2.2.1'
+beamVersion = "2.2.1"
