@@ -96,3 +96,5 @@ sonarqube {
     property "sonar.projectKey", "d3adspace_gradle-project-template"
   }
 }
+
+beamVersion = '2.2.1'
