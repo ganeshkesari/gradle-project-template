@@ -2,6 +2,8 @@ plugins {
   id "org.sonarqube" version "3.4.0.2513"
 }
 
+beamVersion = "2.2.1"
+
 buildScan {
   termsOfServiceUrl = 'https://gradle.com/terms-of-service'
   termsOfServiceAgree = 'yes'
@@ -95,5 +97,3 @@ sonarqube {
     property "sonar.projectKey", "d3adspace_gradle-project-template"
   }
 }
-
-beamVersion = "2.2.1"
