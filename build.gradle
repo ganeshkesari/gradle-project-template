@@ -2,7 +2,7 @@ plugins {
   id "org.sonarqube" version "3.4.0.2513"
 }
 
-beamVersion = "2.4.1"
+beamVersion = '2.5.2'
 
 buildScan {
   termsOfServiceUrl = 'https://gradle.com/terms-of-service'
